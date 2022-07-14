@@ -1,0 +1,21 @@
+.app__form-main {
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.app__form-text {
+  font-size: 25px;
+  margin: 2rem 0rem;
+  text-transform: capitalize;
+}
+
+.app__form-input {
+    border: none;
+    padding: 0.5rem;
+}
+.app__form-add {
+  border: none;
+  font-size: 20px;
+  margin: 0 1rem;
+  background-color: transparent;
+}
