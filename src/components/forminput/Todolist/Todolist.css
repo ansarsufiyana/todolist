@@ -1,0 +1,14 @@
+.app__todolist{
+    padding: 0.5rem 1rem;
+}
+
+.app__todolist span{
+    margin: 0 1rem;
+    font-size: 30px;
+    color: #8566aa;
+
+}
+
+.app__todolist span:hover{
+    color: red;
+}
